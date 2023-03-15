@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School" >> $PATH
+BEST="School" | export $BEST
